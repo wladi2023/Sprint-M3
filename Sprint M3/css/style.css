@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(10, 133, 133);
+    font-family: 'Open Sans' , sans-serif;
+}
+
+header .nav {
+    background: #ffd124;color: white;
+}
+
+/*header .logo h2, header .logo p{
+    font-size: 16 px;
+    display: inline-block;
+}
+header .logo .icono{
+    color: aquamarine;
+}
+header .logo svg{
+    width: 20px;
+    height: 20px;
+}
+header .logo o{
+    color: yellowgreen;
+}*/
+div {font-size: 4ch; color: white; padding-left: 30px;}
+h1{
+    color: #ffd124;
+}
+h2 { color: white; margin-top: 25px;} 
+form ul li{
+    text-decoration: none;
+}
+footer div {background-color: #072227;color: white; padding: 25px;text-align: center;}
